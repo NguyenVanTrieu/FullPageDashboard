@@ -1,7 +1,7 @@
 # FullPageDashboard
 Setting fullpage Dashborad
-# Documment:https://github.com/guysoft/FullPageOS
-## Device:
+### Documment:https://github.com/guysoft/FullPageOS
+### Device:
 Screem, Raspberry Pi, MemmoryCard
 ### Step 1: Setting OS
   - Download OS : http://unofficialpi.org/Distros/FullPageOS/nightly/
