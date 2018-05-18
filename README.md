@@ -8,6 +8,8 @@ Screem, Raspberry Pi, MemmoryCard
   - Install Boot software: https://etcher.io/
   - Boot OS into Card
 ### Step 2: Setting wifi
+  - Pi-version 3: Editing fullpageos-wpa-supplicant.txt
+  - Pi-version 2: File network
 ### Step 3: SSH to Raspberry
   - Get ip from: fullpageos.local (Not work on Windown)
   - SSH to Raspberry.
