@@ -11,11 +11,11 @@ Screem, Raspberry Pi, MemmoryCard
   - Pi-version 3: Editing fullpageos-wpa-supplicant.txt
   - Pi-version 2: File network
 ### Step 3: SSH to Raspberry
-  - Get ip from: fullpageos.local (Not work on Windown)
-  - SSH to Raspberry.
+  - Get ip from: fullpageos.local or dashboard.local (Not work on Windown)
+  - SSH to Raspberry. (putty or ssh user@ip - ssh pi@pi, pass: raspberry)
   - Clone https://github.com/duongdoan/FullPageDashboard to var/ www / html
 ### Step 4:
-  - Access to URl: 192.../FullPageDashboard
+  - Access to URl: 192.../FullPageDashboard or 192.../iFullPageDashboard
   - Enter Url (Dashborad)
-  - Reset Raspberry
+  - Reset pi: sudo reboot
 ## Done
